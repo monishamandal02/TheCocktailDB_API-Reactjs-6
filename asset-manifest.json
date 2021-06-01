@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TheCocktailDB_API-Reactjs-6/static/css/main.f8a98f98.chunk.css",
+    "main.js": "/TheCocktailDB_API-Reactjs-6/static/js/main.09b3c10b.chunk.js",
+    "main.js.map": "/TheCocktailDB_API-Reactjs-6/static/js/main.09b3c10b.chunk.js.map",
+    "runtime-main.js": "/TheCocktailDB_API-Reactjs-6/static/js/runtime-main.e0473944.js",
+    "runtime-main.js.map": "/TheCocktailDB_API-Reactjs-6/static/js/runtime-main.e0473944.js.map",
+    "static/js/2.72303b8e.chunk.js": "/TheCocktailDB_API-Reactjs-6/static/js/2.72303b8e.chunk.js",
+    "static/js/2.72303b8e.chunk.js.map": "/TheCocktailDB_API-Reactjs-6/static/js/2.72303b8e.chunk.js.map",
+    "index.html": "/TheCocktailDB_API-Reactjs-6/index.html",
+    "precache-manifest.000d769174cb01bd3d52ea3c325244c2.js": "/TheCocktailDB_API-Reactjs-6/precache-manifest.000d769174cb01bd3d52ea3c325244c2.js",
+    "service-worker.js": "/TheCocktailDB_API-Reactjs-6/service-worker.js",
+    "static/css/main.f8a98f98.chunk.css.map": "/TheCocktailDB_API-Reactjs-6/static/css/main.f8a98f98.chunk.css.map",
+    "static/js/2.72303b8e.chunk.js.LICENSE.txt": "/TheCocktailDB_API-Reactjs-6/static/js/2.72303b8e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TheCocktailDB_API-Reactjs-6/static/media/logo.f3ad7664.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0473944.js",
+    "static/js/2.72303b8e.chunk.js",
+    "static/css/main.f8a98f98.chunk.css",
+    "static/js/main.09b3c10b.chunk.js"
+  ]
+}
